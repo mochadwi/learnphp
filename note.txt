@@ -1,0 +1,23 @@
+Challenges:
+-change an associative arrays key, to a desired string
+-create an arrays contain title for each <ul>
+sample:
+	// $title = array(
+		// 'This is an Indexed Arrays',
+		// 'This is an Associative Arrays',
+		// 'This is a Multidimensional Arrays',
+		// 'IF Condition',
+		// 'Switch Statement',
+		// 'This is a Ternary Operator',
+		// 'While Statement',
+		// 'Do ... While Statement',
+		// 'For Statement',
+		// 'Foreach Statement (Indexed Arrays)',
+		// 'Foreach Statement (Associative Arrays)',
+		// 'Foreach Statement (Break, Continue)',
+		// 'Function (Modularizing your code)'
+	// );
+	
+	
+HTML+CSS, PHP, JavaScript, Python, Ruby
+http://carlcheo.com/startcoding
