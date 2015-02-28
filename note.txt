@@ -17,8 +17,14 @@ sample:
 		// 'Foreach Statement (Break, Continue)',
 		// 'Function (Modularizing your code)'
 	// );
-	
-	
+
+Deprecated: Assigning the return value of new by reference is deprecated
+http://www.appnitro.com/forums/topic/errors-message-
+
+Step by Step Tutorial PHP	
+http://jaskokoyn.com/2013/05/23/classes-objects-instances/
+http://www.bypeople.com/object-oriented-php-tutorial/
+
 HTML+CSS, PHP, JavaScript, Python, Ruby
 http://carlcheo.com/startcoding
 http://www.quora.com/How-do-I-learn-to-code-1
@@ -26,7 +32,6 @@ http://www.quora.com/How-do-I-learn-to-code-1
 Bugs
 playfantasista.com/tutorial/
 -perlu di ubah header images, pas 767px, ada ide?
-
 
 Active Directory
 https://msdn.microsoft.com/en-us/library/windows/desktop/aa367008%28v=vs.85%29.aspx
