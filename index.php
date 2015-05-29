@@ -1,5 +1,5 @@
 <?php
-include ('func.init.php');
+require_once ('./inc/init.php');
 $titleArr = titleArr();
 // Indexed Arrays
 $shoppingList = array('food', 'water', 'snacks');
@@ -205,6 +205,11 @@ $numb = 5;
 $numbNew = doubleNew($numb);
 echo $numb . newLine();
 echo $numbNew;
+echo '</ul>';
+
+echo '<li>' . $titleArr[16] . '</li>';
+echo '<ul>';
+$arraysMulti = delUserQuestEachWeek();
 echo '</ul>';
 
 echo '</ol>';
