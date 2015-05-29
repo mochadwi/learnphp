@@ -1,0 +1,11 @@
+print_r = simple information
+interactive shell
+array_push(parameter1, parameter2[value])arra
+array_pop remove end array
+array_shift remove begin
+array_unshift add begin
+$output = array_slice() to start by, and leave behind it
+strlen() > string length
+
+=== (check data type) vs == (vice versa) case-sensitive
+switch()
