@@ -1,0 +1,48 @@
+Challenges:
+-change an associative arrays key, to a desired string
+-create an arrays contain title for each <ul>
+sample:
+	// $title = array(
+		// 'This is an Indexed Arrays',
+		// 'This is an Associative Arrays',
+		// 'This is a Multidimensional Arrays',
+		// 'IF Condition',
+		// 'Switch Statement',
+		// 'This is a Ternary Operator',
+		// 'While Statement',
+		// 'Do ... While Statement',
+		// 'For Statement',
+		// 'Foreach Statement (Indexed Arrays)',
+		// 'Foreach Statement (Associative Arrays)',
+		// 'Foreach Statement (Break, Continue)',
+		// 'Function (Modularizing your code)'
+	// );
+
+Deprecated: Assigning the return value of new by reference is deprecated
+http://www.appnitro.com/forums/topic/errors-message-
+
+Step by Step Tutorial PHP	
+http://jaskokoyn.com/2013/05/23/classes-objects-instances/
+http://www.bypeople.com/object-oriented-php-tutorial/
+
+HTML+CSS, PHP, JavaScript, Python, Ruby
+http://carlcheo.com/startcoding
+http://www.quora.com/How-do-I-learn-to-code-1
+
+Bugs
+playfantasista.com/tutorial/
+-perlu di ubah header images, pas 767px, ada ide?
+
+Active Directory
+https://msdn.microsoft.com/en-us/library/windows/desktop/aa367008%28v=vs.85%29.aspx
+
+OpenLDAP (Debian)
+http://www.rjsystems.nl/en/2100-d6-openldap-provider.php
+
+4 Open Source LDAP
+http://opensource.com/business/14/5/top-4-open-source-ldap-implementations
+
+Automation
+http://telekomlabs.github.io/
+Chef installation without internet
+http://lollyrock.com/articles/chef-without-internet/
